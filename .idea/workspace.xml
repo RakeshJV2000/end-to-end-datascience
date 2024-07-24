@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc49b5b0-c490-4724-8d02-18427a66bb5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/artifacts/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifacts/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artifacts/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/1 . EDA STUDENT PERFORMANCE .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/2. MODEL TRAINING.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/catboost_info/catboost_training.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/catboost_info/learn/events.out.tfevents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/catboost_info/learn_error.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/catboost_info/time_left.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/data/stud.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mine.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing main"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
