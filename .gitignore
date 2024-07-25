@@ -162,8 +162,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
-<<<<<<< HEAD
-.idea/
-=======
-.idea/
->>>>>>> 52d8271 (done)
+.idea
