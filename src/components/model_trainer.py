@@ -1,7 +1,9 @@
 import os
 import sys
 from dataclasses import dataclass
-
+import seaborn as sns
+from datetime import datetime
+import matplotlib.pyplot as plt
 from catboost import CatBoostRegressor
 from sklearn.ensemble import (
     AdaBoostRegressor,
@@ -110,10 +112,6 @@ class ModelTrainer:
 
             r2_square = r2_score(y_test, predicted)
             return r2_square
-            
 
-
-
-            
         except Exception as e:
             raise CustomException(e,sys)
