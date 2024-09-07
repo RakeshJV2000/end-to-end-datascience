@@ -1,3 +1,3 @@
 # end-to-end-datascience
 
-<<<<work in progress>>>>
+work in progress>>>>
